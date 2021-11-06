@@ -1,4 +1,4 @@
-# WiretapCapacity
+# Wiretap Capacity
 
 Capacity-achieving input distributions for the Wiretap channel with peak amplitude constraint
 
