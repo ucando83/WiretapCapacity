@@ -1,6 +1,6 @@
 # Wiretap Capacity
 
-Capacity-achieving input distributions for the Wiretap channel with peak amplitude constraint
+Capacity-achieving input distributions for the Gaussian Wiretap channel with peak amplitude constraint
 
 This folder contains one .mat file for each value of the variance of the additive Gaussian noise at the eavesdropper \sigma_2^2 = {1.5, 10}.
 
