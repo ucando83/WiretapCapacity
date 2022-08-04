@@ -23,7 +23,7 @@ opt_prob_input: matrix that reports the probabilities of the support points of t
 
 # Example of Secrecy-Capacity-Achieving Output Distributions
 
-Evolution, as the input peak amplitude constraint increases, of the output probability density function of the legitimate user and the malicious receiver:
+Evolution, as the input peak amplitude constraint $\textsf{R}$ increases, of the output probability density function of the legitimate user and the malicious receiver:
 
 (for $N = 2$, $\sigma_1^2 = 1$, and $\sigma_2^2 = 1.5$)
 
